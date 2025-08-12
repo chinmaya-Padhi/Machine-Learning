@@ -17,5 +17,5 @@
 - Here our agenda is we train a model , after train , when we give new weight it will predict a new height.
 - In simple linear regression we have **one i/p and one o/p** features.
 - In multiple linear regression we have **multiple i/ps one o/p**(dependent feature)
-**Note** all the time their will be a dependent feature , which we need to predict.
+- **Note** all the time their will be a dependent feature , which we need to predict.
   
