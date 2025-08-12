@@ -3,7 +3,7 @@
     - o/p --> continious
 - Classification
     - o/p --> Binary, multiclass catagories
-      
+ ## Simple Linear Regression     
 ### Dataset
 
 | Weight(indepent feature)    | Hight(dependent feature)     | 
