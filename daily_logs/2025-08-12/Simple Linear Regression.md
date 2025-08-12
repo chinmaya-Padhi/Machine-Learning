@@ -20,5 +20,5 @@
 - **Note** all the time their will be a dependent feature , which we need to predict.
   
 ![slr1](slr1.jpg)
-![slr1](slr2.jpg)
-![slr1](/slr3.jpg)
+![slr2](slr2.jpg)
+![slr3](slr3.jpg)
