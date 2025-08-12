@@ -5,7 +5,6 @@
     - o/p --> Binary, multiclass catagories
       
 ### Dataset
-  ## 📈 Progress Tracker
 
 | Weight(indepent feature)    | Hight(dependent feature)     | 
 |------------|------------|
