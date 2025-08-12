@@ -18,14 +18,12 @@ This is my personal space to document everything I learn each day while studying
 
 ---
 
-## 📅 Progress Table
+  ## 📈 Progress Tracker
 
-| Day  | Date       | Topics Covered                     | Key Takeaways                              |
-|------|------------|------------------------------------|---------------------------------------------|
-| Day 1 | YYYY-MM-DD | Intro to ML, supervised vs unsupervised | |
-                                       |
-
----
+| Date       | Task Summary                          | Status  |
+|------------|---------------------------------------|---------|
+| 2025-08-12 | Simple linear regression              | ✅ Done | 
+| 2025-08-13 |                                       |          ||
 
 ---
 
