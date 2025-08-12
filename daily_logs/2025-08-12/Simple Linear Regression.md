@@ -19,4 +19,6 @@
 - In multiple linear regression we have **multiple i/ps one o/p**(dependent feature)
 - **Note** all the time their will be a dependent feature , which we need to predict.
   
-[slr1](../../Image/slr1.jpg)
+![slr1](../../Image/slr1.jpg)
+![slr1](../../Image/slr2.jpg)
+![slr1](../../Image/slr3.jpg)
